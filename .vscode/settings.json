@@ -1,0 +1,11 @@
+{
+	"html-css-class-completion.enableEmmetSupport": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.useInlineCompletions": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"emmet.includeLanguages": {
+		"javascript": "html",
+		"html": "1"
+	}
+}
